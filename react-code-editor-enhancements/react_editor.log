@@ -1,0 +1,882 @@
+2025-12-03 05:12:46,509 - __main__ - INFO - Starting React Code Editor API...
+2025-12-03 05:12:49,774 - app - INFO - Initializing React Code Editor API...
+2025-12-03 05:12:49,774 - utils.gcs_manager - INFO - GCS Manager initialized in LOCAL MODE: /tmp/react-code-editor/sample_app
+2025-12-03 05:12:49,775 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-03 05:12:49,835 - watchfiles.main - INFO - 2 changes detected
+2025-12-03 05:12:49,847 - app - INFO - ✅ API initialized successfully
+2025-12-03 05:12:50,188 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:50,541 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:50,893 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:51,244 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:51,595 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:51,946 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:52,297 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:52,653 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:53,004 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:53,356 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:53,708 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:54,060 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:54,412 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:54,764 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:55,115 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:55,466 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:55,819 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:56,170 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:56,521 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:56,875 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:57,228 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:57,580 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:57,931 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:58,282 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:58,635 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:58,986 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:59,337 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:12:59,689 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:00,040 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:00,391 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:00,742 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:01,092 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:01,444 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:01,796 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:02,154 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:02,505 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:02,857 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:03,209 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:03,561 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:03,914 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:04,265 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:04,616 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:04,969 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:05,320 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:05,671 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:06,022 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:06,375 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:06,730 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:07,081 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:07,433 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:07,785 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:08,136 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:08,487 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:08,838 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:09,189 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:09,540 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:09,892 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:10,243 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:10,595 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:10,947 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:11,303 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:11,655 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:12,008 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:12,363 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:12,715 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:13,067 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:13,419 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:13,772 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:14,123 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:14,474 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:14,825 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:15,176 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:15,527 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:15,878 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:16,233 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:16,584 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:16,936 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:17,287 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:17,639 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:17,993 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:18,345 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:18,697 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:19,048 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:19,398 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:19,749 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:20,101 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:20,454 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:20,807 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:21,159 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:21,512 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:21,864 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:22,216 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:22,567 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:22,918 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:23,269 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:23,620 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:23,972 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:24,323 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:24,674 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:25,025 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:25,379 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:25,730 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:26,081 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:26,435 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:26,786 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:27,137 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:27,488 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:27,839 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:28,192 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:28,543 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:28,894 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:29,245 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:29,597 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:29,953 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:30,304 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:30,655 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:31,007 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:31,358 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:31,710 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:32,061 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:32,412 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:32,766 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:33,117 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:33,468 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:33,819 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:34,171 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:34,527 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:34,880 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:35,232 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:35,586 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:35,938 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:36,291 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:36,641 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:36,992 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:37,344 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:37,695 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:38,047 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:38,399 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:38,750 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:39,104 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:39,455 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:39,806 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:40,157 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:40,512 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:40,863 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:41,214 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:41,566 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:41,918 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:42,269 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:42,621 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:42,972 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:43,323 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:43,674 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:44,026 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:44,377 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:44,730 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:45,081 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:45,432 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:45,783 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:46,134 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:46,485 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:46,840 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:47,192 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:47,544 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:47,895 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:48,246 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:48,599 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:48,953 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:49,304 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:49,656 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:50,007 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:50,358 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:50,709 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:51,060 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:51,411 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:51,762 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:52,113 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:52,465 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:52,816 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:53,168 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:53,519 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:53,872 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:54,226 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:54,581 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:54,933 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:55,284 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:55,635 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:55,989 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:56,340 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:56,692 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:57,044 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:57,396 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:57,749 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:58,105 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:58,456 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:58,808 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:59,160 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:59,512 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:13:59,863 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:00,215 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:00,566 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:00,919 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:01,270 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:01,621 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:01,975 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:02,329 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:02,680 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:03,031 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:03,381 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:03,733 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:04,086 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:04,437 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:04,789 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:05,140 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:05,492 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:05,844 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:06,195 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:06,546 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:06,897 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:07,253 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:07,604 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:07,956 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:08,309 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:08,662 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:09,015 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:09,367 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:09,721 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:10,073 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:10,425 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:10,776 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:11,128 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:11,481 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:11,836 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:12,187 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:12,538 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:12,890 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:13,241 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:13,592 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:13,943 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:14,295 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:14,649 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:15,003 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:15,354 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:15,705 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:16,056 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:16,411 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:16,762 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:17,113 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:17,466 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:17,817 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:18,170 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:18,522 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:18,873 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:19,224 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:19,577 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:19,928 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:20,279 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:20,630 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:20,983 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:21,338 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:21,689 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:22,042 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:22,394 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:22,748 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:23,100 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:23,452 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:23,804 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:24,156 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:24,507 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:24,859 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:25,210 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:25,561 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:25,914 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:26,265 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:26,616 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:26,967 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:27,318 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:27,669 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:28,021 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:28,374 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:28,725 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:29,076 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:29,427 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:29,778 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:30,129 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:30,481 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:30,833 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:31,186 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:31,539 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:31,891 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:32,242 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:32,593 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:32,944 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:33,296 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:33,647 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:33,999 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:34,350 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:34,704 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:35,057 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:35,408 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:35,760 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:36,111 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:36,463 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:36,815 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:37,166 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:37,518 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:37,870 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:38,222 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:38,573 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:38,924 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:39,275 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:39,627 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:39,979 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:40,331 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:40,682 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:41,034 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:41,385 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:41,738 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:42,089 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:42,443 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:42,796 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:43,147 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:43,499 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:43,852 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:44,204 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:44,557 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:44,909 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:45,260 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:45,612 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:45,963 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:46,314 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:46,666 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:47,017 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:47,369 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:47,720 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:48,071 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:48,422 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:48,774 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:49,125 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:49,476 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:49,827 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:50,178 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:50,529 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:50,880 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:51,231 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:51,582 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:51,937 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:52,288 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:52,639 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:52,990 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:53,342 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:53,694 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:54,053 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:54,404 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:54,755 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:55,106 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:55,457 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:55,808 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:56,162 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:56,514 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:56,865 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:57,216 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:57,567 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:57,919 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:58,272 - watchfiles.main - INFO - 1 change detected
+2025-12-03 05:14:58,656 - app - INFO - Shutting down API...
+2025-12-03 05:15:37,594 - __main__ - INFO - Starting React Code Editor API...
+2025-12-03 05:15:37,641 - app - INFO - Initializing React Code Editor API...
+2025-12-03 05:15:37,641 - utils.gcs_manager - INFO - GCS Manager initialized in LOCAL MODE: /tmp/react-code-editor/sample_app
+2025-12-03 05:15:37,641 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-03 05:15:37,700 - app - INFO - ✅ API initialized successfully
+2025-12-03 05:20:52,243 - app - INFO - Shutting down API...
+2025-12-03 05:23:44,222 - __main__ - INFO - Starting React Code Editor API...
+2025-12-03 05:23:44,272 - app - INFO - Initializing React Code Editor API...
+2025-12-03 05:23:44,273 - utils.gcs_manager - INFO - GCS Manager initialized in LOCAL MODE: /tmp/react-code-editor/sample_app
+2025-12-03 05:23:44,273 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-03 05:23:44,340 - app - INFO - ✅ API initialized successfully
+2025-12-03 05:23:50,327 - app - INFO - ================================================================================
+2025-12-03 05:23:50,328 - app - INFO - NEW EDIT REQUEST
+2025-12-03 05:23:50,328 - app - INFO - App ID: test-app
+2025-12-03 05:23:50,328 - app - INFO - Message ID: v1
+2025-12-03 05:23:50,328 - app - INFO - Instruction: Change the Play button color from blue to green
+2025-12-03 05:23:50,328 - app - INFO - ================================================================================
+2025-12-03 05:23:50,329 - app - INFO - Working directory: /tmp/react_edit_0p_3at4x
+2025-12-03 05:23:50,329 - app - INFO - 📥 Step 1: Downloading app from GCS...
+2025-12-03 05:23:50,330 - app - ERROR - App not found: Local path not found: /tmp/react-code-editor/sample_app
+2025-12-03 05:23:50,330 - app - INFO - 🧹 Cleaned up temp directory: /tmp/react_edit_0p_3at4x
+2025-12-03 05:24:57,846 - app - INFO - ================================================================================
+2025-12-03 05:24:57,846 - app - INFO - NEW EDIT REQUEST
+2025-12-03 05:24:57,846 - app - INFO - App ID: test-app
+2025-12-03 05:24:57,846 - app - INFO - Message ID: v1
+2025-12-03 05:24:57,847 - app - INFO - Instruction: Change the Play button color from blue to green
+2025-12-03 05:24:57,847 - app - INFO - ================================================================================
+2025-12-03 05:24:57,849 - app - INFO - Working directory: /tmp/react_edit_nc_zc1ax
+2025-12-03 05:24:57,850 - app - INFO - 📥 Step 1: Downloading app from GCS...
+2025-12-03 05:24:57,850 - app - ERROR - App not found: Local path not found: /tmp/react-code-editor/sample_app
+2025-12-03 05:24:57,851 - app - INFO - 🧹 Cleaned up temp directory: /tmp/react_edit_nc_zc1ax
+2025-12-03 05:25:57,306 - app - INFO - Shutting down API...
+2025-12-03 05:26:36,100 - __main__ - INFO - Starting React Code Editor API...
+2025-12-03 05:26:36,157 - app - INFO - Initializing React Code Editor API...
+2025-12-03 05:26:36,158 - utils.gcs_manager - INFO - GCS Manager initialized in LOCAL MODE: /home/ankit_prakash/react-code-editor/sample_app
+2025-12-03 05:26:36,160 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-03 05:26:36,225 - app - INFO - ✅ API initialized successfully
+2025-12-03 05:31:50,441 - app - INFO - Shutting down API...
+2025-12-03 05:32:43,275 - __main__ - INFO - Starting React Code Editor API...
+2025-12-03 05:32:43,319 - app - INFO - Initializing React Code Editor API...
+2025-12-03 05:32:43,319 - utils.gcs_manager - INFO - GCS Manager initialized in LOCAL MODE: /home/ankit_prakash/react-code-editor/sample_app
+2025-12-03 05:32:43,320 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-03 05:32:43,379 - app - INFO - ✅ API initialized successfully
+2025-12-03 05:32:45,592 - app - INFO - Shutting down API...
+2025-12-03 05:34:50,895 - __main__ - INFO - Starting React Code Editor API...
+2025-12-03 05:34:50,934 - app - INFO - Initializing React Code Editor API...
+2025-12-03 05:34:50,995 - utils.gcs_manager - INFO - GCS Manager initialized - ZIP bucket: prompttoapp-codefiles, Folders bucket: prompttoapp-codefolders
+2025-12-03 05:34:50,995 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-03 05:34:51,062 - app - INFO - ✅ API initialized successfully
+2025-12-03 05:38:52,917 - app - INFO - ================================================================================
+2025-12-03 05:38:52,917 - app - INFO - NEW EDIT REQUEST
+2025-12-03 05:38:52,917 - app - INFO - App ID: 3704a805-39e1-4084-a5c1-b25085ad90ac
+2025-12-03 05:38:52,917 - app - INFO - Message ID: e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd
+2025-12-03 05:38:52,917 - app - INFO - Instruction: Change the Play button color from blue to green
+2025-12-03 05:38:52,917 - app - INFO - ================================================================================
+2025-12-03 05:38:52,918 - app - INFO - Working directory: /tmp/react_edit_ni4umh74
+2025-12-03 05:38:52,919 - app - INFO - 📥 Step 1: Downloading app from GCS...
+2025-12-03 05:38:52,919 - utils.gcs_manager - INFO - Downloading app from GCS ZIP bucket: 3704a805-39e1-4084-a5c1-b25085ad90ac/e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd.zip
+2025-12-03 05:38:54,458 - utils.gcs_manager - INFO - Downloaded 136664 bytes
+2025-12-03 05:38:54,470 - utils.gcs_manager - INFO - Extracted app to: /tmp/react_edit_ni4umh74/app
+2025-12-03 05:38:54,471 - app - INFO - ✅ Downloaded to: /tmp/react_edit_ni4umh74/app
+2025-12-03 05:38:54,471 - app - INFO - 🔍 Step 2: Extracting metadata...
+2025-12-03 05:38:54,471 - utils.metadata_extractor - INFO - Analyzing app at: /tmp/react_edit_ni4umh74/app
+2025-12-03 05:38:54,480 - utils.metadata_extractor - INFO - Analysis complete: 14 files, 10 components
+2025-12-03 05:38:54,482 - app - INFO - ✅ Analyzed 14 files, 10 components
+2025-12-03 05:38:54,482 - app - INFO - 🤖 Step 3: Phase 1 - Selecting relevant files...
+2025-12-03 05:38:54,482 - utils.llm_client - INFO - Phase 1: Selecting files
+2025-12-03 05:38:54,483 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 05:39:06,684 - root - INFO - AFC remote call 1 is done.
+2025-12-03 05:39:06,684 - utils.llm_client - INFO - Selected 1 files
+2025-12-03 05:39:06,685 - app - INFO - ✅ Selected 1 files:
+2025-12-03 05:39:06,685 - app - INFO -    • src/components/MusicPlayer.jsx - The summary for MusicPlayer.jsx indicates it contains 3 buttons. It is the most logical location for a 'Play' button and its associated styling.
+2025-12-03 05:39:06,685 - app - INFO - 📂 Step 4: Loading selected files...
+2025-12-03 05:39:06,685 - app - INFO -    ✅ Loaded: src/components/MusicPlayer.jsx (1498 chars)
+2025-12-03 05:39:06,685 - app - INFO - 🤖 Step 5: Phase 2 - Generating code edits...
+2025-12-03 05:39:06,685 - utils.llm_client - INFO - Phase 2: Editing 1 files
+2025-12-03 05:39:06,685 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 05:39:45,431 - root - INFO - AFC remote call 1 is done.
+2025-12-03 05:39:45,431 - utils.llm_client - INFO - Received editing response (1839 chars)
+2025-12-03 05:39:45,432 - app - INFO - ✅ Received response (1839 chars)
+2025-12-03 05:39:45,432 - app - INFO - 📝 Step 6: Parsing and applying changes...
+2025-12-03 05:39:45,432 - utils.response_parser - INFO - Parsing LLM response
+2025-12-03 05:39:45,432 - utils.response_parser - INFO - Extracted 1 files using primary format
+2025-12-03 05:39:45,433 - app - INFO - ✅ Extracted 1 modified files
+2025-12-03 05:39:45,434 - app - INFO - 📦 Step 7: Checking for new packages...
+2025-12-03 05:39:45,434 - utils.package_manager - INFO - Analyzing packages in modified files
+2025-12-03 05:39:45,435 - utils.package_manager - INFO - Found 1 imported packages
+2025-12-03 05:39:45,436 - utils.package_manager - INFO - No missing packages detected
+2025-12-03 05:39:45,437 - app - INFO - ✅ No new packages needed
+2025-12-03 05:39:45,437 - app - INFO - 💾 Step 8: Writing modified files to disk...
+2025-12-03 05:39:45,439 - app - INFO -    ✅ Wrote: src/components/MusicPlayer.jsx
+2025-12-03 05:39:45,439 - app - INFO - ☁️ Step 9: Uploading to GCS...
+2025-12-03 05:39:45,440 - utils.gcs_manager - INFO - Uploading unzipped files to FOLDERS bucket: 3704a805-39e1-4084-a5c1-b25085ad90ac/e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd/
+2025-12-03 05:40:04,486 - utils.gcs_manager - INFO - Creating and uploading zip to ZIP bucket: 3704a805-39e1-4084-a5c1-b25085ad90ac/e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd.zip
+2025-12-03 05:40:05,492 - utils.gcs_manager - INFO - Uploaded zip (136660 bytes) to ZIP bucket: 3704a805-39e1-4084-a5c1-b25085ad90ac/e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd.zip
+2025-12-03 05:40:05,492 - utils.gcs_manager - INFO - Successfully uploaded app: 31 files
+2025-12-03 05:40:05,492 - app - INFO - ✅ Uploaded 31 files to GCS
+2025-12-03 05:40:05,492 - app - INFO - ================================================================================
+2025-12-03 05:40:05,493 - app - INFO - ✅ EDIT COMPLETED SUCCESSFULLY
+2025-12-03 05:40:05,493 - app - INFO - Modified: 1 files
+2025-12-03 05:40:05,493 - app - INFO - Added: 0 files
+2025-12-03 05:40:05,493 - app - INFO - Packages added: 0
+2025-12-03 05:40:05,493 - app - INFO - ================================================================================
+2025-12-03 05:40:05,495 - app - INFO - 🧹 Cleaned up temp directory: /tmp/react_edit_ni4umh74
+2025-12-03 05:45:46,334 - app - INFO - ================================================================================
+2025-12-03 05:45:46,334 - app - INFO - NEW EDIT REQUEST
+2025-12-03 05:45:46,334 - app - INFO - App ID: 3704a805-39e1-4084-a5c1-b25085ad90ac
+2025-12-03 05:45:46,334 - app - INFO - Message ID: e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd
+2025-12-03 05:45:46,334 - app - INFO - Instruction: Add a red Delete button below the Skip Forward button with a trash icon
+2025-12-03 05:45:46,334 - app - INFO - ================================================================================
+2025-12-03 05:45:46,335 - app - INFO - Working directory: /tmp/react_edit_m2r13t79
+2025-12-03 05:45:46,335 - app - INFO - 📥 Step 1: Downloading app from GCS...
+2025-12-03 05:45:46,335 - utils.gcs_manager - INFO - Downloading app from GCS ZIP bucket: 3704a805-39e1-4084-a5c1-b25085ad90ac/e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd.zip
+2025-12-03 05:45:48,009 - utils.gcs_manager - INFO - Downloaded 136660 bytes
+2025-12-03 05:45:48,021 - utils.gcs_manager - INFO - Extracted app to: /tmp/react_edit_m2r13t79/app
+2025-12-03 05:45:48,021 - app - INFO - ✅ Downloaded to: /tmp/react_edit_m2r13t79/app
+2025-12-03 05:45:48,022 - app - INFO - 🔍 Step 2: Extracting metadata...
+2025-12-03 05:45:48,022 - utils.metadata_extractor - INFO - Analyzing app at: /tmp/react_edit_m2r13t79/app
+2025-12-03 05:45:48,028 - utils.metadata_extractor - INFO - Analysis complete: 14 files, 10 components
+2025-12-03 05:45:48,028 - app - INFO - ✅ Analyzed 14 files, 10 components
+2025-12-03 05:45:48,028 - app - INFO - 🤖 Step 3: Phase 1 - Selecting relevant files...
+2025-12-03 05:45:48,028 - utils.llm_client - INFO - Phase 1: Selecting files
+2025-12-03 05:45:48,029 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 05:46:02,009 - root - INFO - AFC remote call 1 is done.
+2025-12-03 05:46:02,010 - utils.llm_client - INFO - Selected 1 files
+2025-12-03 05:46:02,011 - app - INFO - ✅ Selected 1 files:
+2025-12-03 05:46:02,011 - app - INFO -    • src/components/MusicPlayer.jsx - This component is named 'MusicPlayer' and contains buttons. It is the most likely place to find a 'Skip Forward' button and add a new 'Delete' button with a trash icon, especially since it already uses the lucide-react icon library.
+2025-12-03 05:46:02,011 - app - INFO - 📂 Step 4: Loading selected files...
+2025-12-03 05:46:02,011 - app - INFO -    ✅ Loaded: src/components/MusicPlayer.jsx (1497 chars)
+2025-12-03 05:46:02,012 - app - INFO - 🤖 Step 5: Phase 2 - Generating code edits...
+2025-12-03 05:46:02,012 - utils.llm_client - INFO - Phase 2: Editing 1 files
+2025-12-03 05:46:02,013 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 05:47:06,952 - root - INFO - AFC remote call 1 is done.
+2025-12-03 05:47:06,953 - utils.llm_client - INFO - Received editing response (2261 chars)
+2025-12-03 05:47:06,954 - app - INFO - ✅ Received response (2261 chars)
+2025-12-03 05:47:06,954 - app - INFO - 📝 Step 6: Parsing and applying changes...
+2025-12-03 05:47:06,954 - utils.response_parser - INFO - Parsing LLM response
+2025-12-03 05:47:06,955 - utils.response_parser - INFO - Extracted 1 files using primary format
+2025-12-03 05:47:06,955 - app - INFO - ✅ Extracted 1 modified files
+2025-12-03 05:47:06,955 - app - INFO - 📦 Step 7: Checking for new packages...
+2025-12-03 05:47:06,955 - utils.package_manager - INFO - Analyzing packages in modified files
+2025-12-03 05:47:06,955 - utils.package_manager - INFO - Found 1 imported packages
+2025-12-03 05:47:06,955 - utils.package_manager - INFO - No missing packages detected
+2025-12-03 05:47:06,956 - app - INFO - ✅ No new packages needed
+2025-12-03 05:47:06,956 - app - INFO - 💾 Step 8: Writing modified files to disk...
+2025-12-03 05:47:06,957 - app - INFO -    ✅ Wrote: src/components/MusicPlayer.jsx
+2025-12-03 05:47:06,957 - app - INFO - ☁️ Step 9: Uploading to GCS...
+2025-12-03 05:47:06,958 - utils.gcs_manager - INFO - Uploading unzipped files to FOLDERS bucket: 3704a805-39e1-4084-a5c1-b25085ad90ac/e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd/
+2025-12-03 05:47:23,471 - utils.gcs_manager - INFO - Creating and uploading zip to ZIP bucket: 3704a805-39e1-4084-a5c1-b25085ad90ac/e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd.zip
+2025-12-03 05:47:24,758 - utils.gcs_manager - INFO - Uploaded zip (136726 bytes) to ZIP bucket: 3704a805-39e1-4084-a5c1-b25085ad90ac/e00b8ee1-f7d6-4d52-8439-9c0b13dc2ffd.zip
+2025-12-03 05:47:24,758 - utils.gcs_manager - INFO - Successfully uploaded app: 31 files
+2025-12-03 05:47:24,758 - app - INFO - ✅ Uploaded 31 files to GCS
+2025-12-03 05:47:24,758 - app - INFO - ================================================================================
+2025-12-03 05:47:24,758 - app - INFO - ✅ EDIT COMPLETED SUCCESSFULLY
+2025-12-03 05:47:24,758 - app - INFO - Modified: 1 files
+2025-12-03 05:47:24,759 - app - INFO - Added: 0 files
+2025-12-03 05:47:24,759 - app - INFO - Packages added: 0
+2025-12-03 05:47:24,759 - app - INFO - ================================================================================
+2025-12-03 05:47:24,763 - app - INFO - 🧹 Cleaned up temp directory: /tmp/react_edit_m2r13t79
+2025-12-03 06:34:58,497 - app - INFO - Shutting down API...
+2025-12-03 12:21:11,369 - __main__ - INFO - Starting React Code Editor API...
+2025-12-03 12:21:11,450 - app - INFO - Initializing React Code Editor API...
+2025-12-03 12:21:11,497 - utils.gcs_manager - INFO - GCS Manager initialized - ZIP bucket: prompttoapp-codefiles, Folders bucket: prompttoapp-codefolders
+2025-12-03 12:21:11,498 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-03 12:21:11,561 - app - INFO - ✅ API initialized successfully
+2025-12-03 12:33:54,073 - app - INFO - ================================================================================
+2025-12-03 12:33:54,074 - app - INFO - NEW EDIT REQUEST
+2025-12-03 12:33:54,074 - app - INFO - App ID: 369b6143-abef-43b1-a505-353aaa5dfdb0
+2025-12-03 12:33:54,074 - app - INFO - Message ID: a9475b71-fc7f-484a-a949-5a027f76f7f5
+2025-12-03 12:33:54,074 - app - INFO - Instruction: split the landing page into separate pages - home, products, and about pages with navigation
+2025-12-03 12:33:54,074 - app - INFO - ================================================================================
+2025-12-03 12:33:54,077 - app - INFO - Working directory: /tmp/react_edit_psks7cx7
+2025-12-03 12:33:54,077 - app - INFO - 📥 Step 1: Downloading app from GCS...
+2025-12-03 12:33:54,079 - utils.gcs_manager - INFO - Downloading app from GCS ZIP bucket: 369b6143-abef-43b1-a505-353aaa5dfdb0/a9475b71-fc7f-484a-a949-5a027f76f7f5.zip
+2025-12-03 12:33:55,961 - utils.gcs_manager - INFO - Downloaded 4444612 bytes
+2025-12-03 12:33:55,986 - utils.gcs_manager - INFO - Extracted app to: /tmp/react_edit_psks7cx7/app
+2025-12-03 12:33:55,989 - app - INFO - ✅ Downloaded to: /tmp/react_edit_psks7cx7/app
+2025-12-03 12:33:55,991 - app - INFO - 🔍 Step 2: Extracting metadata...
+2025-12-03 12:33:55,992 - utils.metadata_extractor - INFO - Analyzing app at: /tmp/react_edit_psks7cx7/app
+2025-12-03 12:33:56,001 - utils.metadata_extractor - INFO - Analysis complete: 15 files, 11 components
+2025-12-03 12:33:56,003 - app - INFO - ✅ Analyzed 15 files, 11 components
+2025-12-03 12:33:56,004 - app - INFO - 🤖 Step 3: Phase 1 - Selecting relevant files...
+2025-12-03 12:33:56,005 - utils.llm_client - INFO - Phase 1: Selecting files
+2025-12-03 12:33:56,006 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 12:34:13,537 - root - INFO - AFC remote call 1 is done.
+2025-12-03 12:34:13,543 - utils.llm_client - INFO - Selected 7 files
+2025-12-03 12:34:13,544 - app - INFO - ✅ Selected 3 existing files and 4 new files to create:
+2025-12-03 12:34:13,544 - app - INFO -    • [EXISTING] src/App.jsx - To set up the main application routing using react-router-dom, import the new pages, and render a navigation component.
+2025-12-03 12:34:13,546 - app - INFO -    • [EXISTING] src/pages/LandingPage.jsx - To read its content (Hero, FeaturedProducts) which will be split into the new Home and Products pages.
+2025-12-03 12:34:13,546 - app - INFO -    • [EXISTING] package.json - To add the 'react-router-dom' dependency required for creating different pages and navigation.
+2025-12-03 12:34:13,546 - app - INFO -    • [NEW] src/components/Navbar.jsx - A new component is needed to create the navigation bar with links to the Home, Products, and About pages.
+2025-12-03 12:34:13,546 - app - INFO -    • [NEW] src/pages/HomePage.jsx - A new page component to serve as the 'home' page, which will likely contain the Hero section from the original LandingPage.
+2025-12-03 12:34:13,546 - app - INFO -    • [NEW] src/pages/ProductsPage.jsx - A new page component for the 'products' page, which will contain the FeaturedProducts section.
+2025-12-03 12:34:13,546 - app - INFO -    • [NEW] src/pages/AboutPage.jsx - A new page component for the 'about' page as requested in the instruction.
+2025-12-03 12:34:13,546 - app - INFO - 📂 Step 4: Loading selected files...
+2025-12-03 12:34:13,548 - app - INFO -    ✅ Loaded: src/App.jsx (213 chars)
+2025-12-03 12:34:13,548 - app - INFO -    ✅ Loaded: src/pages/LandingPage.jsx (416 chars)
+2025-12-03 12:34:13,549 - app - INFO -    ✅ Loaded: package.json (831 chars)
+2025-12-03 12:34:13,550 - app - INFO - 🤖 Step 5: Phase 2 - Generating code edits...
+2025-12-03 12:34:13,550 - utils.llm_client - INFO - Phase 2: Editing 3 existing files
+2025-12-03 12:34:13,550 - utils.llm_client - INFO - Phase 1 indicated 4 new files to create:
+2025-12-03 12:34:13,552 - utils.llm_client - INFO -   • src/components/Navbar.jsx - A new component is needed to create the navigation bar with links to the Home, Products, and About pages.
+2025-12-03 12:34:13,552 - utils.llm_client - INFO -   • src/pages/HomePage.jsx - A new page component to serve as the 'home' page, which will likely contain the Hero section from the original LandingPage.
+2025-12-03 12:34:13,552 - utils.llm_client - INFO -   • src/pages/ProductsPage.jsx - A new page component for the 'products' page, which will contain the FeaturedProducts section.
+2025-12-03 12:34:13,553 - utils.llm_client - INFO -   • src/pages/AboutPage.jsx - A new page component for the 'about' page as requested in the instruction.
+2025-12-03 12:34:13,554 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 12:35:04,024 - root - INFO - AFC remote call 1 is done.
+2025-12-03 12:35:04,025 - utils.llm_client - INFO - Received editing response (5954 chars)
+2025-12-03 12:35:04,026 - app - INFO - ✅ Received response (5954 chars)
+2025-12-03 12:35:04,026 - app - INFO - 📝 Step 6: Parsing and applying changes...
+2025-12-03 12:35:04,027 - utils.response_parser - INFO - Parsing LLM response
+2025-12-03 12:35:04,029 - utils.response_parser - INFO - Extracted 7 files using primary format
+2025-12-03 12:35:04,030 - app - INFO - ✅ Extracted 7 modified files
+2025-12-03 12:35:04,031 - app - WARNING - ⚠️ Validation issues found:
+2025-12-03 12:35:04,032 - app - WARNING -    • src/pages/LandingPage.jsx: Missing imports (might be incomplete)
+2025-12-03 12:35:04,033 - app - WARNING -    • src/pages/AboutPage.jsx: Missing imports (might be incomplete)
+2025-12-03 12:35:04,033 - app - INFO - 📦 Step 7: Checking for new packages...
+2025-12-03 12:35:04,035 - utils.package_manager - INFO - Analyzing packages in modified files
+2025-12-03 12:35:04,035 - utils.package_manager - INFO - Found 1 imported packages
+2025-12-03 12:35:04,036 - utils.package_manager - INFO - Missing packages: {'react-router-dom'}
+2025-12-03 12:35:04,037 - utils.package_manager - INFO - Added 1 new packages
+2025-12-03 12:35:04,038 - app - INFO - ✅ Adding 1 new packages: ['react-router-dom']
+2025-12-03 12:35:04,039 - utils.package_manager - INFO - Updated package.json content
+2025-12-03 12:35:04,039 - app - INFO - 💾 Step 8: Writing modified files to disk...
+2025-12-03 12:35:04,041 - app - INFO -    ✅ Wrote: src/App.jsx
+2025-12-03 12:35:04,041 - app - INFO -    ✅ Wrote: src/pages/LandingPage.jsx
+2025-12-03 12:35:04,042 - app - INFO -    ✅ Wrote: package.json
+2025-12-03 12:35:04,043 - app - INFO -    ✅ Wrote: src/components/Navbar.jsx
+2025-12-03 12:35:04,044 - app - INFO -    ✅ Wrote: src/pages/HomePage.jsx
+2025-12-03 12:35:04,044 - app - INFO -    ✅ Wrote: src/pages/ProductsPage.jsx
+2025-12-03 12:35:04,044 - app - INFO -    ✅ Wrote: src/pages/AboutPage.jsx
+2025-12-03 12:35:04,044 - app - INFO - ☁️ Step 9: Uploading to GCS...
+2025-12-03 12:35:04,044 - utils.gcs_manager - INFO - Uploading unzipped files to FOLDERS bucket: 369b6143-abef-43b1-a505-353aaa5dfdb0/a9475b71-fc7f-484a-a949-5a027f76f7f5/
+2025-12-03 12:35:24,640 - utils.gcs_manager - INFO - Creating and uploading zip to ZIP bucket: 369b6143-abef-43b1-a505-353aaa5dfdb0/a9475b71-fc7f-484a-a949-5a027f76f7f5.zip
+2025-12-03 12:35:26,957 - utils.gcs_manager - INFO - Uploaded zip (4446289 bytes) to ZIP bucket: 369b6143-abef-43b1-a505-353aaa5dfdb0/a9475b71-fc7f-484a-a949-5a027f76f7f5.zip
+2025-12-03 12:35:26,958 - utils.gcs_manager - INFO - Successfully uploaded app: 40 files
+2025-12-03 12:35:26,959 - app - INFO - ✅ Uploaded 40 files to GCS
+2025-12-03 12:35:26,959 - app - INFO - ================================================================================
+2025-12-03 12:35:26,959 - app - INFO - ✅ EDIT COMPLETED SUCCESSFULLY
+2025-12-03 12:35:26,959 - app - INFO - Modified: 3 files
+2025-12-03 12:35:26,960 - app - INFO - Added: 4 files
+2025-12-03 12:35:26,960 - app - INFO - Packages added: 1
+2025-12-03 12:35:26,960 - app - INFO - ================================================================================
+2025-12-03 12:35:26,965 - app - INFO - 🧹 Cleaned up temp directory: /tmp/react_edit_psks7cx7
+2025-12-03 12:44:23,924 - app - INFO - ================================================================================
+2025-12-03 12:44:23,925 - app - INFO - NEW EDIT REQUEST
+2025-12-03 12:44:23,926 - app - INFO - App ID: 369b6143-abef-43b1-a505-353aaa5dfdb0
+2025-12-03 12:44:23,926 - app - INFO - Message ID: a9475b71-fc7f-484a-a949-5a027f76f7f5
+2025-12-03 12:44:23,926 - app - INFO - Instruction: add a contact page that shows when users click contact in the footer
+2025-12-03 12:44:23,926 - app - INFO - ================================================================================
+2025-12-03 12:44:23,927 - app - INFO - Working directory: /tmp/react_edit_fibwvseu
+2025-12-03 12:44:23,927 - app - INFO - 📥 Step 1: Downloading app from GCS...
+2025-12-03 12:44:23,927 - utils.gcs_manager - INFO - Downloading app from GCS ZIP bucket: 369b6143-abef-43b1-a505-353aaa5dfdb0/a9475b71-fc7f-484a-a949-5a027f76f7f5.zip
+2025-12-03 12:44:26,266 - utils.gcs_manager - INFO - Downloaded 4446289 bytes
+2025-12-03 12:44:26,299 - utils.gcs_manager - INFO - Extracted app to: /tmp/react_edit_fibwvseu/app
+2025-12-03 12:44:26,300 - app - INFO - ✅ Downloaded to: /tmp/react_edit_fibwvseu/app
+2025-12-03 12:44:26,301 - app - INFO - 🔍 Step 2: Extracting metadata...
+2025-12-03 12:44:26,301 - utils.metadata_extractor - INFO - Analyzing app at: /tmp/react_edit_fibwvseu/app
+2025-12-03 12:44:26,307 - utils.metadata_extractor - INFO - Analysis complete: 19 files, 15 components
+2025-12-03 12:44:26,307 - app - INFO - ✅ Analyzed 19 files, 15 components
+2025-12-03 12:44:26,307 - app - INFO - 🤖 Step 3: Phase 1 - Selecting relevant files...
+2025-12-03 12:44:26,307 - utils.llm_client - INFO - Phase 1: Selecting files
+2025-12-03 12:44:26,307 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 12:44:37,835 - root - INFO - AFC remote call 1 is done.
+2025-12-03 12:44:37,836 - utils.llm_client - INFO - Selected 3 files
+2025-12-03 12:44:37,836 - app - INFO - ✅ Selected 2 existing files and 1 new files to create:
+2025-12-03 12:44:37,837 - app - INFO -    • [NEW] src/pages/ContactPage.jsx - To create the new contact page component as requested by the user.
+2025-12-03 12:44:37,838 - app - INFO -    • [EXISTING] src/App.jsx - To add a new route that will render the ContactPage component.
+2025-12-03 12:44:37,838 - app - INFO -    • [EXISTING] src/components/Footer.jsx - To add a navigation link to the newly created contact page.
+2025-12-03 12:44:37,838 - app - INFO - 📂 Step 4: Loading selected files...
+2025-12-03 12:44:37,839 - app - INFO -    ✅ Loaded: src/App.jsx (630 chars)
+2025-12-03 12:44:37,840 - app - INFO -    ✅ Loaded: src/components/Footer.jsx (716 chars)
+2025-12-03 12:44:37,842 - app - INFO - 🤖 Step 5: Phase 2 - Generating code edits...
+2025-12-03 12:44:37,844 - utils.llm_client - INFO - Phase 2: Editing 2 existing files
+2025-12-03 12:44:37,845 - utils.llm_client - INFO - Phase 1 indicated 1 new files to create:
+2025-12-03 12:44:37,846 - utils.llm_client - INFO -   • src/pages/ContactPage.jsx - To create the new contact page component as requested by the user.
+2025-12-03 12:44:37,848 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 12:44:59,599 - root - INFO - AFC remote call 1 is done.
+2025-12-03 12:44:59,600 - utils.llm_client - INFO - Received editing response (4157 chars)
+2025-12-03 12:44:59,600 - app - INFO - ✅ Received response (4157 chars)
+2025-12-03 12:44:59,600 - app - INFO - 📝 Step 6: Parsing and applying changes...
+2025-12-03 12:44:59,600 - utils.response_parser - INFO - Parsing LLM response
+2025-12-03 12:44:59,600 - utils.response_parser - INFO - Extracted 3 files using primary format
+2025-12-03 12:44:59,600 - app - INFO - ✅ Extracted 3 modified files
+2025-12-03 12:44:59,600 - app - WARNING - ⚠️ Validation issues found:
+2025-12-03 12:44:59,601 - app - WARNING -    • src/pages/ContactPage.jsx: Missing imports (might be incomplete)
+2025-12-03 12:44:59,601 - app - INFO - 📦 Step 7: Checking for new packages...
+2025-12-03 12:44:59,601 - utils.package_manager - INFO - Analyzing packages in modified files
+2025-12-03 12:44:59,601 - utils.package_manager - INFO - Found 1 imported packages
+2025-12-03 12:44:59,603 - utils.package_manager - INFO - No missing packages detected
+2025-12-03 12:44:59,606 - app - INFO - ✅ No new packages needed
+2025-12-03 12:44:59,608 - app - INFO - 💾 Step 8: Writing modified files to disk...
+2025-12-03 12:44:59,609 - app - INFO -    ✅ Wrote: src/App.jsx
+2025-12-03 12:44:59,612 - app - INFO -    ✅ Wrote: src/components/Footer.jsx
+2025-12-03 12:44:59,614 - app - INFO -    ✅ Wrote: src/pages/ContactPage.jsx
+2025-12-03 12:44:59,616 - app - INFO - ☁️ Step 9: Uploading to GCS...
+2025-12-03 12:44:59,617 - utils.gcs_manager - INFO - Uploading unzipped files to FOLDERS bucket: 369b6143-abef-43b1-a505-353aaa5dfdb0/a9475b71-fc7f-484a-a949-5a027f76f7f5/
+2025-12-03 12:45:27,025 - utils.gcs_manager - INFO - Creating and uploading zip to ZIP bucket: 369b6143-abef-43b1-a505-353aaa5dfdb0/a9475b71-fc7f-484a-a949-5a027f76f7f5.zip
+2025-12-03 12:45:29,421 - utils.gcs_manager - INFO - Uploaded zip (4446991 bytes) to ZIP bucket: 369b6143-abef-43b1-a505-353aaa5dfdb0/a9475b71-fc7f-484a-a949-5a027f76f7f5.zip
+2025-12-03 12:45:29,423 - utils.gcs_manager - INFO - Successfully uploaded app: 41 files
+2025-12-03 12:45:29,424 - app - INFO - ✅ Uploaded 41 files to GCS
+2025-12-03 12:45:29,424 - app - INFO - ================================================================================
+2025-12-03 12:45:29,424 - app - INFO - ✅ EDIT COMPLETED SUCCESSFULLY
+2025-12-03 12:45:29,425 - app - INFO - Modified: 2 files
+2025-12-03 12:45:29,425 - app - INFO - Added: 1 files
+2025-12-03 12:45:29,425 - app - INFO - Packages added: 0
+2025-12-03 12:45:29,425 - app - INFO - ================================================================================
+2025-12-03 12:45:29,432 - app - INFO - 🧹 Cleaned up temp directory: /tmp/react_edit_fibwvseu
+2025-12-03 14:06:54,765 - __main__ - INFO - Starting React Code Editor API...
+2025-12-03 14:06:54,813 - app - INFO - Initializing React Code Editor API...
+2025-12-03 14:06:54,844 - utils.gcs_manager - INFO - GCS Manager initialized - ZIP bucket: prompttoapp-codefiles, Folders bucket: prompttoapp-codefolders
+2025-12-03 14:06:54,845 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-03 14:06:54,905 - app - INFO - ✅ API initialized successfully
+2025-12-03 14:27:37,345 - app - INFO - ================================================================================
+2025-12-03 14:27:37,348 - app - INFO - NEW EDIT REQUEST
+2025-12-03 14:27:37,350 - app - INFO - App ID: f832f060-ccb4-4da1-8a94-7ab9140d89d5
+2025-12-03 14:27:37,351 - app - INFO - Active Message ID (download from): 1ef3432d-2554-4c4a-9950-cef051fde157
+2025-12-03 14:27:37,352 - app - INFO - New Message ID (save to): 3b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e
+2025-12-03 14:27:37,353 - app - INFO - Instruction: split the landing page into separate pages - home with hero, services page with all service cards, and about page
+2025-12-03 14:27:37,354 - app - INFO - ================================================================================
+2025-12-03 14:27:37,358 - app - INFO - Working directory: /tmp/react_edit__u8j0wy2
+2025-12-03 14:27:37,359 - app - INFO - 📥 Step 1: Downloading app from active version (1ef3432d-2554-4c4a-9950-cef051fde157)...
+2025-12-03 14:27:37,360 - utils.gcs_manager - INFO - Downloading app from GCS ZIP bucket: f832f060-ccb4-4da1-8a94-7ab9140d89d5/1ef3432d-2554-4c4a-9950-cef051fde157.zip
+2025-12-03 14:27:39,439 - utils.gcs_manager - INFO - Downloaded 1053765 bytes
+2025-12-03 14:27:39,458 - utils.gcs_manager - INFO - Extracted app to: /tmp/react_edit__u8j0wy2/app
+2025-12-03 14:27:39,458 - app - INFO - ✅ Downloaded to: /tmp/react_edit__u8j0wy2/app
+2025-12-03 14:27:39,459 - app - INFO - 🔍 Step 2: Extracting metadata...
+2025-12-03 14:27:39,459 - utils.metadata_extractor - INFO - Analyzing app at: /tmp/react_edit__u8j0wy2/app
+2025-12-03 14:27:39,468 - utils.metadata_extractor - INFO - Analysis complete: 18 files, 14 components
+2025-12-03 14:27:39,469 - app - INFO - ✅ Analyzed 18 files, 14 components
+2025-12-03 14:27:39,471 - app - INFO - 🤖 Step 3: Phase 1 - Selecting relevant files...
+2025-12-03 14:27:39,472 - utils.llm_client - INFO - Phase 1: Selecting files
+2025-12-03 14:27:39,473 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 14:27:57,206 - root - INFO - AFC remote call 1 is done.
+2025-12-03 14:27:57,208 - utils.llm_client - ERROR - Failed to parse JSON: Expecting value: line 6 column 16 (char 254)
+2025-12-03 14:27:57,210 - utils.llm_client - ERROR - Response: {
+  "files_needed": [
+    {
+      "path": "src/pages/LandingPage.jsx",
+      "reason": "This file contains the components (Hero, Services, About) that need to be moved into new, separate page files. It is the source for the refactoring.",
+      "is_new":
+2025-12-03 14:27:57,211 - utils.llm_client - ERROR - Error in file selection: Invalid JSON response from LLM: Expecting value: line 6 column 16 (char 254)
+2025-12-03 14:27:57,213 - utils.llm_client - WARNING - Using fallback file selection
+2025-12-03 14:27:57,214 - app - INFO - ✅ Selected 7 existing files and 0 new files to create:
+2025-12-03 14:27:57,215 - app - INFO -    • [EXISTING] postcss.config.js - Fallback selection
+2025-12-03 14:27:57,216 - app - INFO -    • [EXISTING] vite.config.js - Fallback selection
+2025-12-03 14:27:57,216 - app - INFO -    • [EXISTING] tailwind.config.js - Fallback selection
+2025-12-03 14:27:57,217 - app - INFO -    • [EXISTING] eslint.config.js - Fallback selection
+2025-12-03 14:27:57,218 - app - INFO -    • [EXISTING] src/App.jsx - Fallback selection
+2025-12-03 14:27:57,219 - app - INFO -    • [EXISTING] src/main.jsx - Fallback selection
+2025-12-03 14:27:57,221 - app - INFO -    • [EXISTING] src/pages/LandingPage.jsx - Fallback selection
+2025-12-03 14:27:57,222 - app - INFO - 📂 Step 4: Loading selected files...
+2025-12-03 14:27:57,223 - app - INFO -    ✅ Loaded: postcss.config.js (80 chars)
+2025-12-03 14:27:57,225 - app - INFO -    ✅ Loaded: vite.config.js (268 chars)
+2025-12-03 14:27:57,226 - app - INFO -    ✅ Loaded: tailwind.config.js (182 chars)
+2025-12-03 14:27:57,228 - app - INFO -    ✅ Loaded: eslint.config.js (763 chars)
+2025-12-03 14:27:57,228 - app - INFO -    ✅ Loaded: src/App.jsx (200 chars)
+2025-12-03 14:27:57,230 - app - INFO -    ✅ Loaded: src/main.jsx (264 chars)
+2025-12-03 14:27:57,231 - app - INFO -    ✅ Loaded: src/pages/LandingPage.jsx (597 chars)
+2025-12-03 14:27:57,232 - app - INFO - 🤖 Step 5: Phase 2 - Generating code edits...
+2025-12-03 14:27:57,232 - utils.llm_client - INFO - Phase 2: Editing 7 existing files
+2025-12-03 14:27:57,234 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 14:29:08,124 - root - INFO - AFC remote call 1 is done.
+2025-12-03 14:29:08,127 - utils.llm_client - INFO - Received editing response (7440 chars)
+2025-12-03 14:29:08,132 - app - INFO - ✅ Received response (7440 chars)
+2025-12-03 14:29:08,132 - app - INFO - 📝 Step 6: Parsing and applying changes...
+2025-12-03 14:29:08,132 - utils.response_parser - INFO - Parsing LLM response
+2025-12-03 14:29:08,136 - utils.response_parser - INFO - Extracted 14 files using primary format
+2025-12-03 14:29:08,139 - app - INFO - ✅ Extracted 14 modified files
+2025-12-03 14:29:08,141 - app - WARNING - ⚠️ Validation issues found:
+2025-12-03 14:29:08,141 - app - WARNING -    • postcss.config.js: Missing imports (might be incomplete)
+2025-12-03 14:29:08,141 - app - WARNING -    • src/main.jsx: Missing exports (might be incomplete)
+2025-12-03 14:29:08,141 - app - WARNING -    • src/components/Footer.jsx: Missing imports (might be incomplete)
+2025-12-03 14:29:08,141 - app - INFO - 📦 Step 7: Checking for new packages...
+2025-12-03 14:29:08,142 - utils.package_manager - INFO - Analyzing packages in modified files
+2025-12-03 14:29:08,145 - utils.package_manager - INFO - Found 11 imported packages
+2025-12-03 14:29:08,146 - utils.package_manager - INFO - Missing packages: {'vite', '@vitejs/plugin-react', 'eslint-plugin-react-hooks', 'globals', 'eslint-plugin-react-refresh', 'path', '@eslint/js', 'react-router-dom', 'eslint'}
+2025-12-03 14:29:08,572 - httpx - INFO - HTTP Request: GET https://registry.npmjs.org/eslint-plugin-react-hooks/latest "HTTP/1.1 200 OK"
+2025-12-03 14:29:08,859 - httpx - INFO - HTTP Request: GET https://registry.npmjs.org/globals/latest "HTTP/1.1 200 OK"
+2025-12-03 14:29:09,138 - httpx - INFO - HTTP Request: GET https://registry.npmjs.org/eslint-plugin-react-refresh/latest "HTTP/1.1 200 OK"
+2025-12-03 14:29:09,413 - httpx - INFO - HTTP Request: GET https://registry.npmjs.org/path/latest "HTTP/1.1 200 OK"
+2025-12-03 14:29:09,705 - httpx - INFO - HTTP Request: GET https://registry.npmjs.org/@eslint/js/latest "HTTP/1.1 200 OK"
+2025-12-03 14:29:10,012 - httpx - INFO - HTTP Request: GET https://registry.npmjs.org/eslint/latest "HTTP/1.1 200 OK"
+2025-12-03 14:29:10,015 - utils.package_manager - INFO - Added 9 new packages
+2025-12-03 14:29:10,016 - app - INFO - ✅ Adding 9 new packages: ['vite', '@vitejs/plugin-react', 'eslint-plugin-react-hooks', 'globals', 'eslint-plugin-react-refresh', 'path', '@eslint/js', 'react-router-dom', 'eslint']
+2025-12-03 14:29:10,018 - utils.package_manager - INFO - Updated package.json content
+2025-12-03 14:29:10,020 - app - INFO - 💾 Step 8: Writing modified files to disk...
+2025-12-03 14:29:10,020 - app - INFO -    ✅ Wrote: package.json
+2025-12-03 14:29:10,021 - app - INFO -    ✅ Wrote: postcss.config.js
+2025-12-03 14:29:10,021 - app - INFO -    ✅ Wrote: vite.config.js
+2025-12-03 14:29:10,021 - app - INFO -    ✅ Wrote: tailwind.config.js
+2025-12-03 14:29:10,022 - app - INFO -    ✅ Wrote: eslint.config.js
+2025-12-03 14:29:10,022 - app - INFO -    ✅ Wrote: src/App.jsx
+2025-12-03 14:29:10,023 - app - INFO -    ✅ Wrote: src/main.jsx
+2025-12-03 14:29:10,024 - app - INFO -    ✅ Wrote: src/components/Header.jsx
+2025-12-03 14:29:10,024 - app - INFO -    ✅ Wrote: src/components/Footer.jsx
+2025-12-03 14:29:10,025 - app - INFO -    ✅ Wrote: src/pages/LandingPage.jsx
+2025-12-03 14:29:10,027 - app - INFO -    ✅ Wrote: src/pages/HomePage.jsx
+2025-12-03 14:29:10,027 - app - INFO -    ✅ Wrote: src/pages/ServicesPage.jsx
+2025-12-03 14:29:10,027 - app - INFO -    ✅ Wrote: src/pages/AboutPage.jsx
+2025-12-03 14:29:10,028 - app - INFO -    ✅ Wrote: src/pages/ContactPage.jsx
+2025-12-03 14:29:10,029 - app - INFO - ☁️ Step 9: Uploading to GCS as new version (3b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e)...
+2025-12-03 14:29:10,030 - utils.gcs_manager - INFO - Uploading unzipped files to FOLDERS bucket: f832f060-ccb4-4da1-8a94-7ab9140d89d5/3b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e/
+2025-12-03 14:29:29,410 - utils.gcs_manager - INFO - Creating and uploading zip to ZIP bucket: f832f060-ccb4-4da1-8a94-7ab9140d89d5/3b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e.zip
+2025-12-03 14:29:31,047 - utils.gcs_manager - INFO - Uploaded zip (1054318 bytes) to ZIP bucket: f832f060-ccb4-4da1-8a94-7ab9140d89d5/3b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e.zip
+2025-12-03 14:29:31,048 - utils.gcs_manager - INFO - Successfully uploaded app: 40 files
+2025-12-03 14:29:31,048 - app - INFO - ✅ Uploaded 40 files to GCS
+2025-12-03 14:29:31,048 - app - INFO -    New version created at: 3b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e
+2025-12-03 14:29:31,048 - app - INFO -    Original version preserved at: 1ef3432d-2554-4c4a-9950-cef051fde157
+2025-12-03 14:29:31,048 - app - INFO - ================================================================================
+2025-12-03 14:29:31,048 - app - INFO - ✅ EDIT COMPLETED SUCCESSFULLY
+2025-12-03 14:29:31,048 - app - INFO - Modified: 10 files
+2025-12-03 14:29:31,048 - app - INFO - Added: 4 files
+2025-12-03 14:29:31,048 - app - INFO - Packages added: 9
+2025-12-03 14:29:31,048 - app - INFO - ================================================================================
+2025-12-03 14:29:31,054 - app - INFO - 🧹 Cleaned up temp directory: /tmp/react_edit__u8j0wy2
+2025-12-03 14:56:33,589 - app - INFO - Shutting down API...
+2025-12-03 15:04:27,706 - __main__ - INFO - Starting React Code Editor API...
+2025-12-03 15:04:27,789 - app - INFO - Initializing React Code Editor API...
+2025-12-03 15:04:27,816 - utils.gcs_manager - INFO - GCS Manager initialized - ZIP bucket: prompttoapp-codefiles, Folders bucket: prompttoapp-codefolders
+2025-12-03 15:04:27,816 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-03 15:04:27,879 - app - INFO - ✅ API initialized successfully
+2025-12-03 15:05:51,228 - app - INFO - ================================================================================
+2025-12-03 15:05:51,230 - app - INFO - NEW EDIT REQUEST
+2025-12-03 15:05:51,230 - app - INFO - App ID: f832f060-ccb4-4da1-8a94-7ab9140d89d5
+2025-12-03 15:05:51,230 - app - INFO - Active Message ID (download from): 1ef3432d-2554-4c4a-9950-cef051fde157
+2025-12-03 15:05:51,230 - app - INFO - New Message ID (save to): 4b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e
+2025-12-03 15:05:51,230 - app - INFO - Instruction: split the landing page into separate pages - home with hero, services page with all service cards, and about page
+2025-12-03 15:05:51,231 - app - INFO - ================================================================================
+2025-12-03 15:05:51,235 - app - INFO - Working directory: /tmp/react_edit_uz6nwsm2
+2025-12-03 15:05:51,235 - app - INFO - 📥 Step 1: Downloading app from active version (1ef3432d-2554-4c4a-9950-cef051fde157)...
+2025-12-03 15:05:51,236 - utils.gcs_manager - INFO - Downloading app from GCS ZIP bucket: f832f060-ccb4-4da1-8a94-7ab9140d89d5/1ef3432d-2554-4c4a-9950-cef051fde157.zip
+2025-12-03 15:05:53,450 - utils.gcs_manager - INFO - Downloaded 1053765 bytes
+2025-12-03 15:05:53,465 - utils.gcs_manager - INFO - Extracted app to: /tmp/react_edit_uz6nwsm2/app
+2025-12-03 15:05:53,466 - app - INFO - ✅ Downloaded to: /tmp/react_edit_uz6nwsm2/app
+2025-12-03 15:05:53,468 - app - INFO - 🔍 Step 2: Extracting metadata...
+2025-12-03 15:05:53,469 - utils.metadata_extractor - INFO - Analyzing app at: /tmp/react_edit_uz6nwsm2/app
+2025-12-03 15:05:53,482 - utils.metadata_extractor - INFO - Analysis complete: 18 files, 14 components
+2025-12-03 15:05:53,482 - app - INFO - ✅ Analyzed 18 files, 14 components
+2025-12-03 15:05:53,485 - app - INFO - 🤖 Step 3: Phase 1 - Selecting relevant files...
+2025-12-03 15:05:53,486 - utils.llm_client - INFO - Phase 1: Selecting files
+2025-12-03 15:05:53,487 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 15:06:30,587 - root - INFO - AFC remote call 1 is done.
+2025-12-03 15:06:30,587 - utils.llm_client - INFO - Selected 7 files
+2025-12-03 15:06:30,587 - app - INFO - ✅ Selected 4 existing files and 3 new files to create:
+2025-12-03 15:06:30,588 - app - INFO -    • [EXISTING] src/App.jsx - To set up routing for the new pages using `react-router-dom`.
+2025-12-03 15:06:30,588 - app - INFO -    • [EXISTING] src/pages/LandingPage.jsx - To read its content, which will be split across the new pages.
+2025-12-03 15:06:30,588 - app - INFO -    • [EXISTING] src/components/Header.jsx - To update navigation to use router links for the new pages.
+2025-12-03 15:06:30,588 - app - INFO -    • [EXISTING] package.json - To add the `react-router-dom` dependency for routing.
+2025-12-03 15:06:30,588 - app - INFO -    • [NEW] src/pages/Home.jsx - New page for the home route, containing the Hero section.
+2025-12-03 15:06:30,588 - app - INFO -    • [NEW] src/pages/ServicesPage.jsx - New page for the services route, containing the Services section.
+2025-12-03 15:06:30,588 - app - INFO -    • [NEW] src/pages/AboutPage.jsx - New page for the about route, containing the About section.
+2025-12-03 15:06:30,588 - app - INFO - 📂 Step 4: Loading selected files...
+2025-12-03 15:06:30,588 - app - INFO -    ✅ Loaded: src/App.jsx (200 chars)
+2025-12-03 15:06:30,588 - app - INFO -    ✅ Loaded: src/pages/LandingPage.jsx (597 chars)
+2025-12-03 15:06:30,588 - app - INFO -    ✅ Loaded: src/components/Header.jsx (2119 chars)
+2025-12-03 15:06:30,590 - app - INFO -    ✅ Loaded: package.json (832 chars)
+2025-12-03 15:06:30,590 - app - INFO - 🤖 Step 5: Phase 2 - Generating code edits...
+2025-12-03 15:06:30,590 - utils.llm_client - INFO - Phase 2: Editing 4 existing files
+2025-12-03 15:06:30,590 - utils.llm_client - INFO - Phase 1 indicated 3 new files to create:
+2025-12-03 15:06:30,590 - utils.llm_client - INFO -   • src/pages/Home.jsx - New page for the home route, containing the Hero section.
+2025-12-03 15:06:30,590 - utils.llm_client - INFO -   • src/pages/ServicesPage.jsx - New page for the services route, containing the Services section.
+2025-12-03 15:06:30,590 - utils.llm_client - INFO -   • src/pages/AboutPage.jsx - New page for the about route, containing the About section.
+2025-12-03 15:06:30,591 - root - INFO - AFC is enabled with max remote calls: 10.
+2025-12-03 15:07:41,741 - root - INFO - AFC remote call 1 is done.
+2025-12-03 15:07:41,742 - utils.llm_client - INFO - Received editing response (6370 chars)
+2025-12-03 15:07:41,742 - app - INFO - ✅ Received response (6370 chars)
+2025-12-03 15:07:41,742 - app - INFO - 📝 Step 6: Parsing and applying changes...
+2025-12-03 15:07:41,742 - utils.response_parser - INFO - Parsing LLM response
+2025-12-03 15:07:41,743 - utils.response_parser - INFO - Extracted 7 files using primary format
+2025-12-03 15:07:41,744 - app - INFO - ✅ Extracted 7 modified files
+2025-12-03 15:07:41,745 - app - WARNING - ⚠️ Validation issues found:
+2025-12-03 15:07:41,745 - app - WARNING -    • src/pages/LandingPage.jsx: Missing imports (might be incomplete)
+2025-12-03 15:07:41,745 - app - INFO - 📦 Step 7: Checking for new packages...
+2025-12-03 15:07:41,746 - utils.package_manager - INFO - Analyzing packages in modified files
+2025-12-03 15:07:41,746 - utils.package_manager - INFO - Found 3 imported packages
+2025-12-03 15:07:41,747 - utils.package_manager - INFO - Missing packages: {'react-router-dom'}
+2025-12-03 15:07:41,748 - utils.package_manager - INFO - Added 1 new packages
+2025-12-03 15:07:41,748 - app - INFO - ✅ Adding 1 new packages: ['react-router-dom']
+2025-12-03 15:07:41,748 - utils.package_manager - INFO - Updated package.json content
+2025-12-03 15:07:41,749 - app - INFO - 💾 Step 8: Writing modified files to disk...
+2025-12-03 15:07:41,750 - app - INFO -    ✅ Wrote: package.json
+2025-12-03 15:07:41,750 - app - INFO -    ✅ Wrote: src/App.jsx
+2025-12-03 15:07:41,751 - app - INFO -    ✅ Wrote: src/components/Header.jsx
+2025-12-03 15:07:41,752 - app - INFO -    ✅ Wrote: src/pages/LandingPage.jsx
+2025-12-03 15:07:41,753 - app - INFO -    ✅ Wrote: src/pages/AboutPage.jsx
+2025-12-03 15:07:41,753 - app - INFO -    ✅ Wrote: src/pages/Home.jsx
+2025-12-03 15:07:41,754 - app - INFO -    ✅ Wrote: src/pages/ServicesPage.jsx
+2025-12-03 15:07:41,754 - app - INFO - ☁️ Step 9: Uploading to GCS as new version (4b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e)...
+2025-12-03 15:07:41,755 - utils.gcs_manager - INFO - Uploading unzipped files to FOLDERS bucket: f832f060-ccb4-4da1-8a94-7ab9140d89d5/4b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e/
+2025-12-03 15:08:04,984 - utils.gcs_manager - INFO - Creating and uploading zip to ZIP bucket: f832f060-ccb4-4da1-8a94-7ab9140d89d5/4b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e.zip
+2025-12-03 15:08:06,596 - utils.gcs_manager - INFO - Uploaded zip (1054604 bytes) to ZIP bucket: f832f060-ccb4-4da1-8a94-7ab9140d89d5/4b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e.zip
+2025-12-03 15:08:06,598 - utils.gcs_manager - INFO - Successfully uploaded app: 39 files
+2025-12-03 15:08:06,606 - app - INFO - ✅ Uploaded 39 files to GCS
+2025-12-03 15:08:06,607 - app - INFO -    New version created at: 4b2c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e
+2025-12-03 15:08:06,609 - app - INFO -    Original version preserved at: 1ef3432d-2554-4c4a-9950-cef051fde157
+2025-12-03 15:08:06,610 - app - INFO - ================================================================================
+2025-12-03 15:08:06,611 - app - INFO - ✅ EDIT COMPLETED SUCCESSFULLY
+2025-12-03 15:08:06,613 - app - INFO - Modified: 4 files
+2025-12-03 15:08:06,614 - app - INFO - Added: 3 files
+2025-12-03 15:08:06,615 - app - INFO - Packages added: 1
+2025-12-03 15:08:06,616 - app - INFO - ================================================================================
+2025-12-03 15:08:06,621 - app - INFO - 🧹 Cleaned up temp directory: /tmp/react_edit_uz6nwsm2
+2025-12-03 15:12:37,064 - app - INFO - Shutting down API...
+2025-12-04 04:51:27,408 - __main__ - INFO - Starting React Code Editor API...
+2025-12-04 04:51:27,468 - app - INFO - Initializing React Code Editor API...
+2025-12-04 04:51:27,497 - utils.gcs_manager - INFO - GCS Manager initialized - ZIP bucket: prompttoapp-codefiles, Folders bucket: prompttoapp-codefolders
+2025-12-04 04:51:27,650 - utils.llm_client - INFO - LLM Client initialized: gemini-2.5-pro in us-central1
+2025-12-04 04:51:27,705 - app - INFO - ✅ API initialized successfully
+2025-12-04 04:51:44,898 - app - INFO - Shutting down API...

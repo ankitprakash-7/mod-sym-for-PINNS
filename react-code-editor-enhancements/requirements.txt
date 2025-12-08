@@ -1,0 +1,22 @@
+# FastAPI and server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Google Cloud
+google-cloud-storage
+google-genai
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
+
+# File operations
+aiofiles
+
+# Logging
+python-json-logger
+
+# HTTP client
+httpx
